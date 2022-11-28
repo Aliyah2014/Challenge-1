@@ -6,7 +6,7 @@ The website had numerous faults such as links not working, spelling mistakes and
 
 Firstly, I started working on the HTML structure so its logical and in sequence order. Then, step by step I worked on the problems. The most challenging part was the CSS section, as there was no structure. The side bar kept moving out of place and was not alligned with the other rows. I tried multiple CSS properties until it worked. For future, I need to practice CSS box modules features to learn more.
 
-URL
+https://aliyah2014.github.io/Challenge-1/
 
 ## Table of Contents (Optional)
 N/A
