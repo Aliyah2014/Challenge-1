@@ -1,3 +1,5 @@
+
+/* * shows it applies to the rest of the page*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -216,6 +218,7 @@ p {
 }
 
 /* Footer */
+/* properties showing padding and how font is displayed*/
 
 .footer {
     padding: 30px;
@@ -224,6 +227,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h3 {
     font-size: 20px;
 }
