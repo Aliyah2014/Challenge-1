@@ -1,5 +1,5 @@
 
-Horiseaon website- Challenge one
+Horiseon website- Challenge one
 
 ## Description 
 The website had numerous faults such as links not working, spelling mistakes and content not staying in place when the screen size is changed.
